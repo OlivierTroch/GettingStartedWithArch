@@ -1,4 +1,4 @@
-# GettingStartedWithArch
+# Getting Started With Arch
 ## 02/10/2020: Starting on my own  
 I tried installing Arch from scratch on my laptop which used to run Windows 10. As the newcomer I am, this came with a lot of problems.  
 ### Using the installation guide provided by Arch's wiki
