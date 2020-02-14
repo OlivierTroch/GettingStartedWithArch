@@ -18,3 +18,9 @@ After this I started setting up my wired network connection. I actually struggle
 *ip link set interface up* command didn't actually up my interface. Because when you use "Netctl" you need to put the interface in a downed state first or it won't configure otherwise. After this I started my profile which is automatically configured by using the *wifi-menu* command and got it to work aswell. Hooray!  
 
 I had to uncomment *%wheel ALL=(ALL) ALL* in the sudoers file to make sure I can use sudo commands. I also had to change my keymap in "/etc/vonconsole.conf", into *KEYMAP=be-latin1*, this does give a warning-message but it works.
+
+## 02/14/2020: My love for Arch is starting to grow 
+And no, this is not because it's valentines day, or is it?
+I actually thought about Arch alot during the past days: "What should I install?", "What can I do besides just having an OS?", "What will I learn during the process",...  
+I start my day watching a [video](https://www.youtube.com/watch?v=-dEuXTMzRKs) about Pacman of which I made my [PacmanCheatSheet](CheatSheets/PacmanCheatSheet.md)  
+After this I've set up github so I can write on my laptop instead of using my desktop.
