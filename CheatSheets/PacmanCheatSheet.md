@@ -35,7 +35,7 @@ Here I will change settings for the output of pacman.
 * add "ILoveCandy" under "Misc options" for an easter egg
 
 ## Changing the mirrorlist in /etc/pacman.d/mirrorlist
-delete all the mirrors who are not close by.<sup>2</sup> After around 20 entries, delete the rest.
+delete all the mirrors which are not close by.<sup>2</sup> After around 20 entries, delete the rest.
 
 ## Extras
 <sub>1 =  Arch User Repository</sub>  
