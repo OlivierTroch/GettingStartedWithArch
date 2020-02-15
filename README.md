@@ -24,3 +24,21 @@ And no, this is not because it's valentines day, or is it?
 I actually thought about Arch alot during the past days: "What should I install?", "What can I do besides just having an OS?", "What will I learn during the process",...  
 I start my day watching a [video](https://www.youtube.com/watch?v=-dEuXTMzRKs) about Pacman of which I made my [PacmanCheatSheet](CheatSheets/PacmanCheatSheet.md)  
 After this I've set up github so I can write on my laptop instead of using my desktop.
+
+## 02/15/2020: More packages
+Today I wanted to install more packages and maybe start installing a desktop environment. For my packages I installed the following:  
+
+* base-devel
+* dosfstools 
+* os-prober
+* mtools
+* linux-headers
+* linux-lts
+* linux-lts-headers
+* network-manager-applet 
+* networkmanager 
+* wireless_tools 
+* wpa_supplicant 
+* dialog 
+ 
+I actually got some errors with "base-devel, os-prober and network-manager-applet", I will try to fix these later. 
