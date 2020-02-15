@@ -32,10 +32,10 @@
 Here I will change settings for the output of pacman.
 * Uncomment "Color" under "Misc options" to change the color of the font
 * Uncomment "CheckSpace" under "Misc options", the output will let you know if there's enough disk space
-* add "ILoveCandy" under "Misc options" for an easter egg
+* Add "ILoveCandy" under "Misc options" for an easter egg
 
 ## Changing the mirrorlist in /etc/pacman.d/mirrorlist
-delete all the mirrors which are not close by.<sup>2</sup> After around 20 entries, delete the rest.
+Delete all the mirrors which are not close by.<sup>2</sup> After around 20 entries, delete the rest.
 
 ## Extras
 <sub>1 =  Arch User Repository</sub>  
