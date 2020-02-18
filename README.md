@@ -41,4 +41,13 @@ Today I wanted to install more packages and maybe start installing a desktop env
 * wpa_supplicant 
 * dialog 
  
-I actually got some errors with "base-devel, os-prober and network-manager-applet", I will try to fix these later. 
+I actually got some errors with "base-devel", "os-prober" and "network-manager-applet", I will try to fix these later. 
+
+## 02/18/2020: It's been a while  
+A fix has been found for the error when installing the packages, since we did an offline install, we forgot to run *pacman-key --init* and *pacman-key --populate archlinux*
+I'm back and driven to get this desktop environment working, I start off by installing "xorg-server", which is used to draw the graphical interface.  
+For this I also need to install the video driver, my system is running a **Intel Corporation HD Graphics 620** and a **NVIDIA GEFORCE 940MX**. 
+If you don't know which card you have, run the "lspci" command. To know which package to install, just do a quick google search and you'll find it.  
+I install **bspwm** on recommendation, using the [Arch bpswm wiki](https://wiki.archlinux.org/index.php/Bspwm).   
+After the initial configuration I install a "terminal emulator", which I edit in "~/.config/sxhkd/sxhkdrc". 
+
