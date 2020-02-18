@@ -49,5 +49,5 @@ I'm back and driven to get this desktop environment working, I start off by inst
 For this I also need to install the video driver, my system is running a **Intel Corporation HD Graphics 620** and a **NVIDIA GEFORCE 940MX**. 
 If you don't know which card you have, run the "lspci" command. To know which package to install, just do a quick google search and you'll find it.  
 I install **bspwm** on recommendation, using the [Arch bpswm wiki](https://wiki.archlinux.org/index.php/Bspwm).   
-After the initial configuration I install a "terminal emulator", which I edit in "~/.config/sxhkd/sxhkdrc". 
+After the initial configuration I install a "terminal emulator", which I edit in "~/.config/sxhkd/sxhkdrc". Next time I'll make the terminal emulator AZERTY again lol. 
 
