@@ -51,3 +51,5 @@ If you don't know which card you have, run the "lspci" command. To know which pa
 I install **bspwm** on recommendation, using the [Arch bpswm wiki](https://wiki.archlinux.org/index.php/Bspwm).   
 After the initial configuration I install a "terminal emulator", which I edit in "~/.config/sxhkd/sxhkdrc". Next time I'll make the terminal emulator AZERTY again lol. 
 
+## 07/26/2020: And I thought it's been a while the previous time  
+Anyhow, because I was hardstuck before, I decided to install a desktop environment by using this [video](https://www.youtube.com/watch?v=P4IV5BYPiPs) that comes clean of the box, called 'Plasma 5' and my excitement ramped up again. It didn't go without errors, that's for sure but you learn from your mistakes. I didn't install a lot besides [YaY](https://github.com/Jguer/yay), a browser(Firefox), Spotify and [Aria2c](https://aria2.github.io/) which is used to download torrents. (of course only for the legal ones, I swear..) As one famous terminator once told, **I'll be back**.
