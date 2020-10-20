@@ -56,4 +56,4 @@ Anyhow, because I was hardstuck before, I decided to install a desktop environme
 
 ## 10/20/2020: Intership inc  
 Since I have an intership within a couple of months, I have to make sure my laptop is ready to do some actual work. I reinstalled my firefox browser because, boy did I f that up before hand. I also installed [Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-is-now-available-on-linux/ba-p/1056267) 
-for school purposes and because it's commonly used in lots of companies. While installing other bits and bobs which aren't that important, I ran into a couple of issues with libraries who weren't okay. Got that to work eventually. After that I also set up my SSH because this wasn't done earlier. I know it's not much, but it's honest work. 
+for school purposes and because it's commonly used in lots of companies. While installing other bits and bobs which aren't that important, I ran into a couple of issues with libraries who weren't okay. Got that to work eventually. After that I also set up my SSH because this wasn't done earlier. I know it's not much, but it's honest work. :) 
