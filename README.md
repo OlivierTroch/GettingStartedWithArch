@@ -59,9 +59,9 @@ Since I have an intership within a couple of months, I have to make sure my lapt
 for school purposes and because it's commonly used in lots of companies. While installing other bits and bobs which aren't that important, I ran into a couple of issues with libraries who weren't okay. Got that to work eventually. After that I also set up my SSH because this wasn't done earlier. I know it's not much, but it's honest work.
 
 ## 10/25/2020: Problem ''solving'' 
-I've had this problem for quite some time already but never bothered to do anything about it. The problem gives the following explanation:    
+I've had this problem for quite some time already but never bothered to do anything about it, even though it slow my startup with at least 3 minutes. The problem gives the following explanation:    
 ```
 [TIME] Timed out waiting for device /sys/subsystem/net/devices/wlp3s0  
 [DEPEND] Dependency failed for Automatically generated profile by wifi-menu
 ```  
-To fix this I followed a solution by [someone](https://superuser.com/questions/1150151/a-start-job-is-running-for-sys-subsystem-net-devices) who had a similar problem. I ended up with deleting "netctl@wlp3s0\...service.d". A network device name change may occur when installing a new network device. So I guess that's what happened in this case, since the original wlp3s0 does not exist.  Now we just reboot and check if it works...  
+To fix this I followed a solution by [someone](https://superuser.com/questions/1150151/a-start-job-is-running-for-sys-subsystem-net-devices) who had a similar problem. I ended up with deleting "netctl@wlp3s0\...service.d". A network device name change may occur when installing a new network device. So I guess that's what happened in this case, since the original wlp3s0 does not exist.  Now we just reboot and check if it works... Well, it did fix my previous problem. But it created a new problem, which says something about 'failed to start Networking wlp3s0-..'. But that's for the next time. It boots, faster than before, so I see this as a semi win. I think. 
